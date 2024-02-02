@@ -1,3 +1,9 @@
 Download latest wordpress setup from https://wordpress.org/download/
 Unzip the setup file and rename that unzip folder to you site domain with extension
 Move whole unzip folder to c://xampp/htdocs
+run xampp
+switch on the apache and mysql server 
+open localhost/phpmyadmin on browser and create new database with usernme
+then open http://localhost/dev2.techilaservices.com(site url)
+Setup the wordpress site with all the details with indexing checkbox
+download new theme for wordpress site 
