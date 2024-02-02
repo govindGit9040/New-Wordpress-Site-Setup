@@ -1,0 +1,3 @@
+Download latest wordpress setup from https://wordpress.org/download/
+Unzip the setup file and rename that unzip folder to you site domain with extension
+Move whole unzip folder to c://xampp/htdocs
