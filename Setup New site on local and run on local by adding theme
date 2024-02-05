@@ -5,5 +5,5 @@ run xampp
 switch on the apache and mysql server 
 open localhost/phpmyadmin on browser and create new database with usernme
 then open http://localhost/dev2.techilaservices.com(site url)
-Setup the wordpress site with all the details with indexing checkbox
+Setup the wordpress site with all the details with non indexing checkbox(for not to crawl on google)
 download new theme for wordpress site 
